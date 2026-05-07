@@ -1,0 +1,17 @@
+{
+  "name": "TrailReels",
+  "short_name": "TrailReels",
+  "description": "A dreamy social media platform for Reelers, Reels, Trails, Memories, and Archives.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1748",
+  "theme_color": "#102a63",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
